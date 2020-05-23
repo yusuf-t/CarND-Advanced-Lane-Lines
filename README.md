@@ -1,10 +1,10 @@
 ## Advanced Lane Finding
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
-![Lanes Image](./examples/example_output.jpg)
+![alt text][image6]
 
 In this project, the goal is to write a software pipeline to identify the lane boundaries in a video.
 
-**Note: For the writeup refer either to the writeup file (`WRITEUP.md`) or see the sections below. **
+**Note: For the writeup refer either to the writeup file `WRITEUP.md` or see the sections below.**
 
 ---
 
